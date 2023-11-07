@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Attempt to Make an Appointment with All Fields Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e8905c8-5bc2-4828-a451-b9afa62cb360</testCaseGuid>
+</TestCaseEntity>
